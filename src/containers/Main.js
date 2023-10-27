@@ -14,9 +14,10 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <HashRouter basename="/home">
+          <HashRouter basename="/">
             <Switch>
-           
+          
+             
               <Route
                 path="/home"
                 render={(props) => <Home {...props} theme={this.props.theme} />}
