@@ -14,7 +14,7 @@ export default class Main extends Component {
     if (settings.isSplash) {
       return (
         <div>
-          <HashRouter basename="/">
+          <HashRouter basename="/home">
             <Switch>
            
               <Route
