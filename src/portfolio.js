@@ -13,7 +13,7 @@ const seo = {
   og: {
     title: "Md. Saad Hossain Portfolio",
     type: "website",
-    url: "https://saadhossain.vercel.app/"",
+    url: "https://saadhossain.vercel.app/",
   },
 };
 
