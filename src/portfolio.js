@@ -34,7 +34,7 @@ const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
   // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
+  // gmail: "saad.hossain2014@gmail.com",
   // gitlab: "https://gitlab.com/ashutoshhathidara98",
   // facebook: "https://www.facebook.com/laymanbrother.19/",
   // twitter: "https://twitter.com/ashutosh_1919",
@@ -54,13 +54,13 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://youtube.com/c/DevSense19",
+    link: "https://www.youtube.com/channel/UCF40td7ulGNJLdIID8c57Bw",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "mailto:ashutoshhathidara98@gmail.com",
+    link: "saad.hossain2014@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
