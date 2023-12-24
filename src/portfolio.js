@@ -54,13 +54,13 @@ const socialMediaLinks = [
   },
   {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UCF40td7ulGNJLdIID8c57Bw",
+    link: "https://youtube.com/channel/UCF40td7ulGNJLdIID8c57Bw",
     fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
-    link: "saad.hossain2014@gmail.com",
+    link: "mailto:saad.hossain2014@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
