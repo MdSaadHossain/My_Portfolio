@@ -749,14 +749,14 @@ const contactPageData = {
   addressSection: {
     title: "Address",
     subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
+      "27 No RND Road, Lalbagh, Dhaka 1211, Bangladesh",
     locality: "Kanodar",
     country: "IN",
     region: "Gujarat",
     postalCode: "385520",
     streetAddress: "Ambavadi vas",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://www.google.com/maps/place/Rnd+road/@23.7175379,90.3841315,18z/data=!4m6!3m5!1s0x3755b9d8475a91ef:0x69d2e9e96860620f!8m2!3d23.717639!4d90.3855209!16s%2Fg%2F11s8zcy497?entry=ttu",
   },
   phoneSection: {
     title: "",
