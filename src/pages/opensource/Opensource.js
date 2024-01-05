@@ -5,6 +5,7 @@ import OpensourceCharts from "../../containers/opensourceCharts/OpensourceCharts
 import Organizations from "../../containers/organizations/Organizations";
 import PullRequests from "../../containers/pullRequests/PullRequests";
 import Issues from "../../containers/issues/Issues";
+import Achievement from "../../containers/achievement/Achievement"
 import TopButton from "../../components/topButton/TopButton";
 import "./Opensource.css";
 
@@ -14,9 +15,10 @@ class Opensource extends Component {
       <div className="opensource-main">
         <Header theme={this.props.theme} />
         <Organizations theme={this.props.theme} />
-        <OpensourceCharts theme={this.props.theme} />
-        <PullRequests theme={this.props.theme} />
-        <Issues theme={this.props.theme} />
+        {/* <OpensourceCharts theme={this.props.theme} /> */}
+        {/* <PullRequests theme={this.props.theme} /> */}
+        {/* <Issues theme={this.props.theme} /> */}
+        <Achievement theme={this.props.theme}/>
         <Footer theme={this.props.theme} onToggle={this.props.onToggle} />
         <TopButton theme={this.props.theme} />
       </div>

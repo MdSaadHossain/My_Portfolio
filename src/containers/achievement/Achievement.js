@@ -1,23 +1,28 @@
 import React from "react";
 import "./Achievement.css";
+import "../organizations/Organizations.css"
+import { Fade } from "react-reveal";
+
 import AchivementCard from "../../components/achievementCard/AchivementCard";
 import { achievementSection } from "../../portfolio";
 
-export default function Achievement() {
+export default function Achievement({theme}) {
   // function openUrlInNewTab(url) {
   //   var win = window.open(url, "_blank");
   //   win.focus();
   // }
+
+
+  console.log(achievementSection.achivementsCards);
   return (
     <div className="main" id="achievements">
       <div className="achievement-main-div">
-        <div className="achievement-header">
-          <h1 className="heading achievement-heading">
-            {achievementSection.title}
-          </h1>
-          <p className="subTitle achievement-subtitle">
-            {achievementSection.subtitle}
-          </p>
+      <div className="organizations-header-div">
+          <Fade bottom duration={2000} distance="20px">
+            <h1 className="organizations-header" style={{ color: theme.text }}>
+              Achievements
+            </h1>
+          </Fade>
         </div>
         <div className="achievement-cards-div">
           {achievementSection.achivementsCards.map((card) => {
@@ -27,7 +32,7 @@ export default function Achievement() {
                   title: card.title,
                   description: card.subtitle,
                   image: card.image,
-                  footer: card.footerLink,
+                 // footer: card.footerLink,
                 }}
               />
             );

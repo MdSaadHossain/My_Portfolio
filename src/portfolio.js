@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Saad's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
   og: {
     title: "Md. Saad Hossain Portfolio",
     type: "website",
@@ -23,11 +23,59 @@ const greeting = {
   logo_name: "Md. Saad Hossain",
   nickname: "",
   subTitle:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
   resumeLink:
     "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
   portfolio_repository: "https://github.com/MdSaadHossain/My_Portfolio",
   githubProfile: "https://github.com/MdSaadHossain",
+};
+
+// In portfolio.js or a similar file
+export const achievementSection = {
+  title: "Achievements",
+  subtitle: "",
+  achivementsCards: [
+    {
+      title: "Achievement 1",
+      subtitle: "Description of Achievement 1",
+      image: "Understand.jpg",
+    },
+    {
+       title: "Achievement 2",
+       subtitle: "Description of Achievement 2",
+       image: "Industrial_Biotechnology.jpg",
+     },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "URL_to_image_1",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "URL_to_image_2",
+    // },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "URL_to_image_1",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "URL_to_image_2",
+    // },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "URL_to_image_1",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "URL_to_image_2",
+    // },
+  ],
 };
 
 const socialMediaLinks = [
@@ -526,7 +574,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "Driven by an insatiable passion for exploration in the fields of biology, biochemistry, bioinformatics and biotechnology, my professional journey includes serving as a Junior Research Collaborator and Research Assistant. My journey is fueled by a commitment to making meaningful contributions to the scientific and research community.I possess a natural inclination for organizing, a perpetual curiosity for learning, and a genuine passion for volunteering. This drives my active involvement in various communities, where I contribute as a dedicated member and researcher.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -675,7 +723,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+    "My projects span a diverse spectrum of research in the realm of biological science, with a focus on excelling in biotechnology, bioinformatics, and biochemistry. I actively contribute to innovative projects, utilizing bioinformatics and biological tools to propel forward impactful research initiatives.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -737,13 +785,13 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "animated_ashutosh.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am easily accessible across various social media platforms. Feel free to drop me a message, and you can expect a prompt response within a few hours. I'm here to assist you with research, data science, utilizing tools and software, basic programming in biology, as well as video editing and graphic design.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
       "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
+    link: "https://blogs.",
     avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
