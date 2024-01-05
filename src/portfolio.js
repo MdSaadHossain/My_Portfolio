@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
   resumeLink:
-    "https://drive.google.com/file/d/1FL_wydnPF2SWCdw2goYAgZ1KKBx8TpcD/view?usp=sharing",
-  portfolio_repository: "https://github.com/MdSaadHossain/My_Portfolio",
+    "",
+  portfolio_repository: "https://github.com/MdSaadHossain",
   githubProfile: "https://github.com/MdSaadHossain",
 };
 
@@ -114,19 +114,19 @@ const socialMediaLinks = [
   },
   {
     name: "X-Twitter",
-    link: "https://twitter.com/ashutosh_1919",
+    link: "https://twitter.com/mdsaad_hossain",
     fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
     backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/laymanbrother.19/",
+    link: "https://www.facebook.com/saad.905/",
     fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com//",
+    link: "https://www.instagram.com/saad.hossain2014",
     fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
