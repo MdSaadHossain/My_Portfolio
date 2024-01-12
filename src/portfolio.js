@@ -135,12 +135,12 @@ const socialMediaLinks = [
 const skills = {
   data: [
     {
-      title: "Data Science & AI",
+      title: "Research & Publication",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
-        "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
+        "⚡ Engaging in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
+        "⚡ Contributing to ongoing publications, including a review of plant-based pharmaceutical production and genomic studies on breast cancer risk variants.",
+        "⚡ Exploring in silico strategies targeting CK2α for prostate cancer therapy.",
       ],
       softwareSkills: [
         {
@@ -180,12 +180,12 @@ const skills = {
       ],
     },
     {
-      title: "Full Stack Development",
+      title: "Bioinformatics & Data Science Contribution",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask",
+        "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
+        "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
+        "⚡ Conducting in silico studies for breast cancer risk variants and prostate cancer therapy.",
       ],
       softwareSkills: [
         {
@@ -262,13 +262,13 @@ const skills = {
       ],
     },
     {
-      title: "Cloud Infra-Architecture",
+      title: "Scientific Affiliations & Professional Development",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Experience working on multiple cloud platforms",
-        "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        "⚡ Member of the American Society for Microbiology (ASM), American Society of Clinical Oncology (ASCO), Web of Science Researcher Community (Clarivate), Royal Society of Chemistry (RSC), Elsevier Researcher Academy, American Chemical Society (ACS), and British Pharmacological Society (BPS).",
+        "⚡ Completed training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
+        "⚡ Active participation in online information sessions and courses related to research and science.",
+    
       ],
       softwareSkills: [
         {
@@ -330,12 +330,12 @@ const skills = {
       ],
     },
     {
-      title: "UI/UX Design",
+      title: "Graphics Design & Video Editing",
       fileName: "DesignImg",
       skills: [
-        "⚡ Designing highly attractive user interface for mobile and web applications",
-        "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience",
+        "⚡ Proficient in Adobe Photoshop and Adobe Illustrator for image processing.",
+        "⚡ Skilled in video editing with Wondershare Filmora and Adobe Premiere Pro.",
+        "⚡ Experienced in creating visually appealing logos and custom designs.",
       ],
       softwareSkills: [
         {
