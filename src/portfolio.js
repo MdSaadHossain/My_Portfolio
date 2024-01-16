@@ -48,12 +48,12 @@ export const achievementSection = {
     // {
     //   title: "Achievement 1",
     //   subtitle: "Description of Achievement 1",
-    //   image: "URL_to_image_1",
+    //   image: "Industrial_Biotechnology.jpg",
     // },
     // {
     //   title: "Achievement 2",
     //   subtitle: "Description of Achievement 2",
-    //   image: "URL_to_image_2",
+    //   image: "Industrial_Biotechnology.jpg",
     // },
     // {
     //   title: "Achievement 1",
