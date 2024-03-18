@@ -6,8 +6,8 @@
             "__typename": "Organization"
         },
         {
-            "login": "scikit-learn",
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/365630?v=4",
+            "login": "R Programming",
+            "avatarUrl": "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png",
             "__typename": "Organization"
         },
         {
@@ -16,78 +16,78 @@
             "__typename": "Organization"
         },
         {
-            "login": "facebook",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/69631?v=4",
+            "login": "ChemDraw Professional",
+            "avatarUrl": "https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/chemdraw.jpg?itok=cVu5Rq0I",
             "__typename": "Organization"
         },
         {
-            "login": "ReactTraining",
-            "avatarUrl": "https://avatars1.githubusercontent.com/u/11823761?v=4",
+            "login": "PyCharm",
+            "avatarUrl": "https://blue.cs.sonoma.edu/cs115/S17/labs/lab01/pycharm/PyCharmIcon.png",
             "__typename": "Organization"
         },
         {
-            "login": "keras-team",
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/34455048?v=4",
+            "login": "BIOVIA Draw",
+            "avatarUrl": "https://community.chocolatey.org/content/packageimages/bioviadraw-ae.2018.0.0.20180925.png",
             "__typename": "Organization"
         },
         {
-            "login": "fossasia",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/6295529?v=4",
+            "login": "PyRx",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkm_XQhkOxOiCq7w-Al59YEF71q-w2i3Y-xe1l3meQyQ&s",
             "__typename": "Organization"
         },
         {
-            "login": "gatsbyjs",
-            "avatarUrl": "https://avatars1.githubusercontent.com/u/12551863?v=4",
+            "login": "Cytoscape",
+            "avatarUrl": "https://cytoscape.org/images/logo/cytoscape_logo_512.png",
             "__typename": "Organization"
         },
         {
-            "login": "tensorflow",
-            "avatarUrl": "https://avatars1.githubusercontent.com/u/15658638?v=4",
+            "login": "Mendeley",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Mendeley_Logo_Vertical.png/768px-Mendeley_Logo_Vertical.png",
             "__typename": "Organization"
         },
         {
-            "login": "kiwix",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/826219?v=4",
+            "login": "UCSF Chimera",
+            "avatarUrl": "https://user-images.githubusercontent.com/923400/234595361-7d6625ba-8579-422b-bab7-e9f76ac02804.png",
             "__typename": "Organization"
         },
         {
-            "login": "uber",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/538264?v=4",
+            "login": "Discovery Studio",
+            "avatarUrl": "https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_62731cd8a2fa5ac0781eab42fc5318e5/biovia-discovery-studio.jpg",
             "__typename": "Organization"
         },
         {
-            "login": "netrack",
-            "avatarUrl": "https://avatars2.githubusercontent.com/u/10380772?v=4",
+            "login": "Open Babel GUI",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Open_Babel_computer_icon.png",
             "__typename": "Organization"
         },
         {
-            "login": "DataTurks-Engg",
-            "avatarUrl": "https://avatars1.githubusercontent.com/u/39724935?v=4",
+            "login": "Gaussian & Gauss View",
+            "avatarUrl": "https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/gaussian.jpg?itok=WiExD6Kb",
             "__typename": "Organization"
         },
         {
-            "login": "google",
-            "avatarUrl": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+            "login": "SciDAVis",
+            "avatarUrl": "https://static.macupdate.com/products/27635/l/scidavis-logo.png?v=1616491166",
             "__typename": "Organization"
         },
         {
-            "login": "apollographql",
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/17189275?v=4",
+            "login": "PyMOL",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/PyMOL_logo.svg/640px-PyMOL_logo.svg.png",
             "__typename": "Organization"
         },
         {
-            "login": "NVlabs",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/2695301?v=4",
+            "login": "VMD",
+            "avatarUrl": "https://lammpstube.com/wp-content/uploads/2019/10/VMD-LOGO-1.png",
             "__typename": "Organization"
         },
         {
-            "login": "dsc-iiitdmk",
-            "avatarUrl": "https://avatars0.githubusercontent.com/u/53558593?v=4",
+            "login": "Adobe Photoshop",
+            "avatarUrl": "https://static-00.iconduck.com/assets.00/photoshop-icon-1024x999-xhts0syq.png",
             "__typename": "Organization"
         },
         {
-            "login": "firecampapp",
-            "avatarUrl": "https://avatars3.githubusercontent.com/u/45025286?v=4",
+            "login": "Wondershare Filmora",
+            "avatarUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wondershare_filmora_logo.svg/2048px-Wondershare_filmora_logo.svg.png",
             "__typename": "Organization"
         }
     ]

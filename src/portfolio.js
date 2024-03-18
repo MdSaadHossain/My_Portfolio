@@ -36,13 +36,13 @@ export const achievementSection = {
   subtitle: "",
   achivementsCards: [
     {
-      title: "Achievement 1",
-      subtitle: "Description of Achievement 1",
+      title: "Understanding Research Methods",
+      subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
       image: "Understand.jpg",
     },
     {
-       title: "Achievement 2",
-       subtitle: "Description of Achievement 2",
+       title: "Industrial Biotechnology",
+       subtitle: "An online course authorized by the University of Manchester and offered through Coursera.",
        image: "Industrial_Biotechnology.jpg",
      },
     // {
@@ -578,8 +578,9 @@ const experience = {
     "Driven by an insatiable passion for exploration in the fields of biology, biochemistry, bioinformatics and biotechnology, my professional journey includes serving as a Junior Research Collaborator and Research Assistant. My journey is fueled by a commitment to making meaningful contributions to the scientific and research community.I possess a natural inclination for organizing, a perpetual curiosity for learning, and a genuine passion for volunteering. This drives my active involvement in various communities, where I contribute as a dedicated member and researcher.",
   header_image_path: "experience.svg",
   sections: [
+    
     {
-      title: "Work",
+      title: "Work & Relevant Experience",
       work: true,
       experiences: [
         {
@@ -618,7 +619,7 @@ const experience = {
       ],
     },
     {
-      title: "Internships",
+      title: "Internship & Training",
       experiences: [
         {
           title: "Research Trainee",
@@ -657,7 +658,7 @@ const experience = {
       ],
     },
     {
-      title: "Volunteerships",
+      title: "Volunteership",
       experiences: [
         {
           title: "Member at United Nations Volunteers Platform (UVP)",
@@ -739,9 +740,9 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "No publication has been added",
+      createdAt: "2024-01-01T16:26:54Z",
+      description: " ",
       url:
         "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
     },
