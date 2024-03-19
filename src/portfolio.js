@@ -26,7 +26,7 @@ const greeting = {
     "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
   resumeLink:
     "",
-  portfolio_repository: "https://github.com/MdSaadHossain",
+  portfolio_repository: "https://linkedin.com/in/mdsaadhossain/",
   githubProfile: "https://github.com/MdSaadHossain",
 };
 
@@ -435,8 +435,8 @@ const degrees = {
       duration: "2019 - 2024",
       descriptions: [
         "⚡ I have delved into various biological science subjects, including Cell Biology, Molecular Biology, Biochemistry, Immunology, Biophysics, Bioinformatics, Genetics & Genomics, to deepen my understanding of the intricacies of life sciences.",
-        "⚡ Apart from this, I have done courses on Mathematics, Statistics, Psychology, Professional Ethics, Industrial Biotechnology, Forensic Biology, Pharmaceutical Biotechnology and Understanding Research Methods.",
-        "⚡ I serve as an organizer at East West University, actively involved in managing both the Performing Arts Club and the Sports Club",
+        "⚡ Apart from this, I have done courses in Mathematics, Statistics, Psychology, Professional Ethics, Industrial Biotechnology, Forensic Biology, Pharmaceutical Biotechnology and many more.",
+        "⚡ I serve as an organizer at East West University, actively involved in managing both the Performing Arts Club and the Sports Club.",
         "⚡ I actively participate as a player in the East West University Genetic Engineering and Biotechnology department's football and cricket teams.",
       ],
       website_link: "https://www.ewubd.edu/",
@@ -785,7 +785,7 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "website_pic.png",
     description:
       "I am easily accessible across various social media platforms. Feel free to drop me a message, and you can expect a prompt response within a few hours. I'm here to assist you with research, data science, utilizing tools and software, basic programming in biology, as well as video editing and graphic design.",
   },
