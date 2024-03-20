@@ -180,7 +180,7 @@ const skills = {
       ],
     },
     {
-      title: "Bioinformatics & Data Science Contribution",
+      title: "Bioinformatics & Biological Science Contribution",
       fileName: "FullStackImg",
       skills: [
         "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
