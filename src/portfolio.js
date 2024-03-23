@@ -573,12 +573,116 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Work, Internship and Volunteership",
+  subtitle: "Scientific Affiliations, Work, Internship, and Volunteership",
   description:
     "Driven by an insatiable passion for exploration in the fields of biology, biochemistry, bioinformatics and biotechnology, my professional journey includes serving as a Junior Research Collaborator and Research Assistant. My journey is fueled by a commitment to making meaningful contributions to the scientific and research community.I possess a natural inclination for organizing, a perpetual curiosity for learning, and a genuine passion for volunteering. This drives my active involvement in various communities, where I contribute as a dedicated member and researcher.",
   header_image_path: "experience.svg",
   sections: [
-    
+    {
+      title: "Scientific Affiliations & Membership",
+      work: true,
+      experiences: [
+        {
+          title: "Student Member",
+          company: "International Society for Computational Biology (ISCB)",
+          company_url: "https://www.iscb.org/",
+          logo_path: "ISCB_logo (2).png",
+          duration: "February 2024 - Present",
+          location: "Virginia, United States",
+          description:
+            "s",
+          color: "#0879bf",
+        },
+        {
+          title: "Global Outreach - Student Member",
+          company: "American Society for Microbiology (ASM)",
+          company_url: "https://asm.org/",
+          logo_path: "ASM_Logo.png",
+          duration: "January 2024 - Present",
+          location: "Washington, United States",
+          description:
+            "s",
+          color: "#9b1578",
+        },
+        {
+          title: "Professional Member",
+          company: "ISTAART - Alzheimer's Association",
+          company_url: "https://istaart.alz.org/home",
+          logo_path: "ISTAART_Logo.png",
+          duration: "January 2024 - Present",
+          // location: "Ahmedabad, Gujarat",
+          description:
+            "S",
+          color: "#fc1f20",
+        },
+        {
+          title: "Student / Non-Oncology Resident Member",
+          company: "American Society of Clinical Oncology (ASCO)",
+          company_url: "https://www.asco.org/",
+          logo_path: "ASCO_Logo.png",
+          duration: "December 2023 - Present",
+          location: "Virginia, United States",
+          description:
+            "s",
+          color: "#0879bf",
+        },
+        {
+          title: "General Member",
+          company: "Clarivate - Web of Science Researcher Community (WoS)",
+          company_url: "https://clarivate.com/",
+          logo_path: "WOS_Logo.png",
+          duration: "October 2023 - Present",
+          // location: "Chattogram, Bangladesh",
+          description:
+            "S",
+          color: "#9b1578",
+        },
+        {
+          title: "Student Member",
+          company: "Royal Society of Chemistry (RSC)",
+          company_url: "https://www.rsc.org/",
+          logo_path: "RSC_Logo.png",
+          duration: "October 2023 - Present",
+          location: "London, United Kingdom",
+          description:
+            "S",
+          color: "#fc1f20",
+        },
+        {
+          title: "General Member",
+          company: "Elsevier Researcher Academy",
+          company_url: "https://researcheracademy.elsevier.com/",
+          logo_path: "ERA_Logo.png",
+          duration: "October 2023 - Present",
+          // location: "Chattogram, Bangladesh",
+          description:
+            "S",
+          color: "#0879bf",
+        },
+        {
+          title: "Community Associate",
+          company: "American Chemical Society (ACS)",
+          company_url: "https://www.acs.org/",
+          logo_path: "ACS_logo.png",
+          duration: "April 2023 - Present",
+          location: "Washington, United States",
+          description:
+            "S",
+          color: "#9b1578",
+        },
+        {
+          title: "Student Member",
+          company: "British Pharmacological Society (BPS)",
+          company_url: "https://www.bps.ac.uk/",
+          logo_path: "BPS_logo.png",
+          duration: "April 2023 - Present",
+          location: "London, United Kingdom",
+          description:
+            "s",
+          color: "#fc1f20",
+        },
+      ],
+    },
     {
       title: "Work & Relevant Experience",
       work: true,
