@@ -775,17 +775,7 @@ const experience = {
             "Actively engaged as a member on the United Nations Volunteers Platform, where I contribute my time and efforts towards initiatives that promote positive change and sustainable development on a global scale. I have also completed online training courses on this platform, gaining valuable insights and knowledge in various international subjects.",
           color: "#4285F4",
         },
-        {
-          title: "Member at Bangladesh Red Crescent Society (BDRCS)",
-          company: "Bangladesh Red Crescent Society",
-          company_url: "https://bdrcs.org/",
-          logo_path: "BDRCS_logo.png",
-          // duration: "Aug 2019 - May 2020",
-          // location: "Hyderabad, Telangana",
-          description:
-            "Active member of the Bangladesh Red Crescent Society (BDRCS) and dedicated participant in blood donation activities. I am engaged with the society through its Facebook page, actively supporting and contributing by regularly donating blood to help those in need.",
-          color: "#D83B01",
-        },
+      
         // {
         //   title: "Mozilla Campus Captain",
         //   company: "Mozilla",
