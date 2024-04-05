@@ -436,8 +436,8 @@ const degrees = {
       descriptions: [
         "⚡ I have delved into various biological science subjects, including Cell Biology, Molecular Biology, Biochemistry, Immunology, Biophysics, Bioinformatics, Genetics & Genomics, to deepen my understanding of the intricacies of life sciences.",
         "⚡ Apart from this, I have done courses in Mathematics, Statistics, Psychology, Professional Ethics, Industrial Biotechnology, Forensic Biology, Pharmaceutical Biotechnology and many more.",
-        "⚡ I serve as an organizer at East West University, actively involved in managing both the Performing Arts Club and the Sports Club.",
-        "⚡ I actively participate as a player in the East West University Genetic Engineering and Biotechnology department's football and cricket teams.",
+        "⚡ I served as an organizer at East West University, actively involved as an organizer in both the Performing Arts Club and Sports Club.",
+        "⚡ I actively participated as a player in the East West University Genetic Engineering and Biotechnology department's football and cricket teams.",
       ],
       website_link: "https://www.ewubd.edu/",
     },
@@ -590,7 +590,7 @@ const experience = {
           duration: "February 2024 - Present",
           location: "Virginia, United States",
           description:
-            "s",
+            "The International Society for Computational Biology (ISCB) is a scholarly society for researchers in computational biology and bioinformatics. The society was founded in 1997 to provide a stable financial home for the Intelligent Systems for Molecular Biology (ISMB) conference and has grown to become a larger society working towards advancing the understanding of living systems through computation and communicating scientific advances worldwide. As a Student Member of the International Society for Computational Biology (ISCB) since February 2024, I actively engage with a global community of computational biologists and bioinformatics professionals. This membership provides me with invaluable opportunities to stay updated on the latest developments in the field, network with fellow enthusiasts, and participate in various educational and research initiatives.",
           color: "#0879bf",
         },
         {
@@ -601,7 +601,7 @@ const experience = {
           duration: "January 2024 - Present",
           location: "Washington, United States",
           description:
-            "s",
+            "The American Society for Microbiology (ASM), originally the Society of American Bacteriologists, is a professional organization for scientists who study viruses, bacteria, fungi, algae, and protozoa as well as other aspects of microbiology. It was founded in 1899. The Society publishes a variety of scientific journals, textbooks, and other educational materials related to microbiology and infectious diseases. ASM organizes annual meetings, as well as workshops and professional development opportunities for its members. As a Global Outreach - Student Member of the American Society for Microbiology (ASM), my involvement extends beyond borders to connect with a diverse community of microbiologists worldwide. Since joining, I've been engaged in fostering collaborations, accessing resources, and participating in ASM's global initiatives aimed at advancing microbiological research and education.",
           color: "#9b1578",
         },
         {
