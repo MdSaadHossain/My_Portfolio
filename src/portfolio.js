@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Saad's Portfolio",
   description:
-    "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
+    "In every endeavor, I abide by the profound words of Nelson Mandela: 'I never lose. I either win or learn.' This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to continually explore new ideas and contribute meaningfully to research endeavors. No matter how many times I fail, I will never quit.",
   og: {
     title: "Md. Saad Hossain Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Md. Saad Hossain",
   nickname: "",
   subTitle:
-    "The main goal is to keep discovering new ideas that should add value to the research, solve new problems, and challenge me to do new things in a new way. In the future, I aim to be a renowned researcher. To succeed, I must first believe that I can. My will is my wealth.",
+    "In every endeavor, I abide by the profound words of Nelson Mandela: 'I never lose. I either win or learn.' This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to continually explore new ideas and contribute meaningfully to research endeavors. No matter how many times I fail, I will never quit.",
   resumeLink:
     "",
   portfolio_repository: "https://linkedin.com/in/mdsaadhossain/",
@@ -138,9 +138,9 @@ const skills = {
       title: "Research & Publication",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Engaging in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
-        "⚡ Contributing to ongoing publications, including a review of plant-based pharmaceutical production and genomic studies on breast cancer risk variants.",
-        "⚡ Exploring in silico strategies targeting CK2α for prostate cancer therapy.",
+        "⚡ Contributing to ongoing publications, including a review related to palmitic acid pharmacology.",
+        "⚡ Engaged in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
+        "⚡ Exploring in silico strategies targeting CK2α for prostate cancer therapy and genomic studies on breast cancer risk variants.",
       ],
       softwareSkills: [
         // {
@@ -185,7 +185,7 @@ const skills = {
       skills: [
         "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
         "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
-        "⚡ Conducting in silico studies for breast cancer risk variants and prostate cancer therapy.",
+        "⚡ Conducting in silico studies of cancer research and therapy.",
       ],
       softwareSkills: [
         // {
@@ -265,8 +265,8 @@ const skills = {
       title: "Scientific Affiliations & Professional Development",
       fileName: "CloudInfraImg",
       skills: [
-        "⚡ Member of the American Society for Microbiology (ASM), American Society of Clinical Oncology (ASCO), Web of Science Researcher Community (Clarivate), Royal Society of Chemistry (RSC), Elsevier Researcher Academy, American Chemical Society (ACS), and British Pharmacological Society (BPS).",
-        "⚡ Completed training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
+        "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), Alzheimer's Association (ISTAART), and others.",
+        "⚡ Completed several training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
         "⚡ Active participation in online information sessions and courses related to research and science.",
     
       ],
@@ -573,9 +573,9 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Scientific Affiliations, Work, Internship, and Volunteership",
+  subtitle: "Scientific Affiliations, Work Experience, Internship, and Volunteership.",
   description:
-    "Driven by an insatiable passion for exploration in the fields of biology, biochemistry, bioinformatics and biotechnology, my professional journey includes serving as a Junior Research Collaborator and Research Assistant. My journey is fueled by a commitment to making meaningful contributions to the scientific and research community.I possess a natural inclination for organizing, a perpetual curiosity for learning, and a genuine passion for volunteering. This drives my active involvement in various communities, where I contribute as a dedicated member and researcher.",
+    "I am fueled by an insatiable passion for exploration across the realms of biology, biochemistry, bioinformatics, and biotechnology.  My career so far has involved roles like Junior Research Collaborator and Research Assistant. My goal is to make meaningful contributions to science and research. These qualities propel my active engagement in diverse communities, where I serve as both a devoted member and researcher.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -881,7 +881,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "website_pic.png",
     description:
-      "I am easily accessible across various social media platforms. Feel free to drop me a message, and you can expect a prompt response within a few hours. I'm here to assist you with research, data science, utilizing tools and software, basic programming in biology, as well as video editing and graphic design.",
+      "I am easily accessible across various social media platforms. Feel free to drop me a message, and you can expect a prompt response within a few hours. I'm here to assist you with research, guiding, utilizing tools & software in biological science research, programming in biology, as well as video editing and graphic design.",
   },
   blogSection: {
     title: "Blogs",
