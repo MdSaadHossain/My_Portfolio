@@ -36,6 +36,16 @@ export const achievementSection = {
   subtitle: "",
   achivementsCards: [
     {
+      title: "Basic Microbiology",
+      subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
+      image: "Basic_Microbiology.jpg",
+    },
+    {
+      title: "Understanding Marine Biology",
+      subtitle: "Completed an online course through Alison.com with a commendable score of 96%.",
+      image: "Marine_Bio.jpg",
+    },
+    {
       title: "Understanding Research Methods",
       subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
       image: "Understand.jpg",
@@ -434,7 +444,7 @@ const degrees = {
       alt_name: "EWU,Bangladesh",
       duration: "2019 - 2024",
       descriptions: [
-        "⚡ I have delved into various biological science subjects, including Cell Biology, Molecular Biology, Biochemistry, Immunology, Biophysics, Bioinformatics, Genetics & Genomics, to deepen my understanding of the intricacies of life sciences.",
+        "⚡ I have acquired knowledge through multidisciplinary courses encompassing Cell Biology, Molecular Biology, Biochemistry, Immunology, Biophysics, Bioinformatics, Genetics & Genomics. These experiences have deepened my understanding of the intricate complexities within the life sciences domain.",
         "⚡ Apart from this, I have done courses in Mathematics, Statistics, Psychology, Professional Ethics, Industrial Biotechnology, Forensic Biology, Pharmaceutical Biotechnology and many more.",
         "⚡ I served as an organizer at East West University, actively involved as an organizer in both the Performing Arts Club and Sports Club.",
         "⚡ I actively participated as a player in the East West University Genetic Engineering and Biotechnology department's football and cricket teams.",
@@ -612,7 +622,7 @@ const experience = {
           duration: "January 2024 - Present",
           // location: "Ahmedabad, Gujarat",
           description:
-            "S",
+            "The Alzheimer's Association International Society to Advance Alzheimer's Research and Treatment (ISTAART) is a diverse global network of scientists, clinicians and dementia professionals. Members of this professional organization share common goals: the pursuit of knowledge, collaboration and breakthroughs to advance the research and treatment of Alzheimer's disease and other dementias. As a Professional Member of ISTAART, a division of the Alzheimer's Association, I actively contribute to the advancement of Alzheimer's and dementia research. Through my membership, I engage in collaborative efforts aimed at understanding, treating, and ultimately finding a cure for these neurological disorders.",
           color: "#fc1f20",
         },
         {
@@ -623,7 +633,7 @@ const experience = {
           duration: "December 2023 - Present",
           location: "Virginia, United States",
           description:
-            "s",
+            "The American Society of Clinical Oncology (ASCO) is a professional organization representing physicians of all oncology sub-specialties who care for people with cancer. Founded in 1964 by Fred Ansfield, Harry Bisel, Herman Freckman, Arnoldus Goudsmit, Robert Talley, William Wilson, and Jane C. Wright, it has nearly 45,000 members worldwide. ASCO offers educational resources for cancer physicians and other health care professionals of clinical oncology. These include scientific meetings, educational conferences, professional workshops, and special symposia on issues of particular relevance and importance to oncologists and researchers. As a Student/Non-Oncology Resident Member of the American Society of Clinical Oncology (ASCO), I am part of a community dedicated to advancing cancer research and treatment. My membership allows me to stay updated on the latest developments in oncology and participate in initiatives aimed at improving patient care and outcomes.",
           color: "#0879bf",
         },
         {
@@ -634,7 +644,7 @@ const experience = {
           duration: "October 2023 - Present",
           // location: "Chattogram, Bangladesh",
           description:
-            "S",
+            "The Web of Science is a paid-access platform that provides access to multiple databases that provide reference and citation data from academic journals, conference proceedings, and other documents in various academic disciplines. As a General Member of the Clarivate Web of Science Researcher Community (WoS), I am connected with a global network of researchers and scholars. This membership enables me to access valuable resources, stay updated on cutting-edge research trends, and collaborate with peers in various fields of study.",
           color: "#9b1578",
         },
         {
@@ -645,7 +655,7 @@ const experience = {
           duration: "October 2023 - Present",
           location: "London, United Kingdom",
           description:
-            "S",
+            "The Royal Society of Chemistry (RSC) is a learned society (professional association) in the United Kingdom with the goal of 'advancing the chemical sciences'. It was formed in 1980 from the amalgamation of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry with a new Royal Charter and the dual role of learned society and professional body. As a Student Member of the Royal Society of Chemistry (RSC), I have the privilege of being part of a prestigious community dedicated to advancing the chemical sciences. This membership offers access to a wealth of resources, networking opportunities, and professional development initiatives, empowering me to deepen my knowledge and contribute to the field of chemistry.",
           color: "#fc1f20",
         },
         {
@@ -656,7 +666,7 @@ const experience = {
           duration: "October 2023 - Present",
           // location: "Chattogram, Bangladesh",
           description:
-            "S",
+            "The Elsevier Researcher Academy is an entirely free e-learning platform designed to unlock the potential of early and mid-career researchers. As a General Member & trainee of the Elsevier Researcher Academy, I am part of a dynamic community committed to advancing research and scholarly communication. This membership provides access to valuable resources, training opportunities, and networking platforms, enabling me to enhance my research skills and stay updated with the latest developments in academia.",
           color: "#0879bf",
         },
         {
@@ -667,7 +677,7 @@ const experience = {
           duration: "April 2023 - Present",
           location: "Washington, United States",
           description:
-            "S",
+            "The American Chemical Society (ACS) is a scientific society based in the United States that supports scientific inquiry in the field of chemistry. Founded in 1876 at New York University, the ACS currently has more than 155,000 members at all degree levels and in all fields of chemistry, chemical engineering, and related fields. It is one of the world's largest scientific societies by membership. As a Community Associate of the American Chemical Society (ACS), I actively engage with fellow professionals and enthusiasts in the field of chemistry. Through this role, I contribute to fostering a vibrant community dedicated to advancing chemical sciences, sharing knowledge, and collaborating on impactful projects and initiatives.",
           color: "#9b1578",
         },
         {
@@ -678,7 +688,7 @@ const experience = {
           duration: "April 2023 - Present",
           location: "London, United Kingdom",
           description:
-            "s",
+            "British Pharmacological Society (BPS) is a charity with a mission to promote and advance the whole spectrum of pharmacology. They lead the way in the research and application of pharmacology around the world. They are a friendly and collaborative global community, with over 4,000 members from more than 60 countries worldwide. As a Student Member of the BPS, I am part of a dynamic community dedicated to advancing the field of pharmacology. Through this membership, I have access to valuable resources, networking opportunities, and educational events that enhance my understanding of pharmacological principles and their applications in research and healthcare.",
           color: "#fc1f20",
         },
       ],
