@@ -336,8 +336,8 @@ const skills = {
       title: "Scientific Affiliations & Professional Development",
       fileName: "CloudInfraImg",
       image:"networks(cloud).png",
-      width:"480",
-      height:"450",
+      width:"460",
+      height:"420",
       skills: [
         "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), Alzheimer's Association (ISTAART), and others.",
         "⚡ Completed several training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
@@ -407,8 +407,8 @@ const skills = {
       title: "Graphics Design & Video Editing",
       fileName: "DesignImg",
       image:"graphics_design(uiux).png",
-      width:"480",
-      height:"450",
+      width:"460",
+      height:"420",
       skills: [
         "⚡ Proficient in Adobe Photoshop and Adobe Illustrator for image processing.",
         "⚡ Skilled in video editing with Wondershare Filmora and Adobe Premiere Pro.",
