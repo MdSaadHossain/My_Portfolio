@@ -202,7 +202,9 @@ const skills = {
     {
       title: "Research & Publication",
       fileName: "DataScienceImg",
-      image:"graphics_design(uiux).png",
+      image:"Bioinformaticsbiology(fullstack).png",
+      width:"550",
+      height:"500",
       skills: [
         "⚡ Contributing to ongoing publications, including a review related to palmitic acid pharmacology.",
         "⚡ Engaged in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
@@ -249,7 +251,8 @@ const skills = {
       title: "Bioinformatics & Biological Science Contribution",
       fileName: "FullStackImg",
       image:"Bioinformaticsbiology(fullstack).png",
-
+      width:"550",
+      height:"500",
       skills: [
         "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
         "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
@@ -333,7 +336,8 @@ const skills = {
       title: "Scientific Affiliations & Professional Development",
       fileName: "CloudInfraImg",
       image:"networks(cloud).png",
-
+      width:"450",
+      height:"350",
       skills: [
         "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), Alzheimer's Association (ISTAART), and others.",
         "⚡ Completed several training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
@@ -403,7 +407,8 @@ const skills = {
       title: "Graphics Design & Video Editing",
       fileName: "DesignImg",
       image:"graphics_design(uiux).png",
-
+      width:"450",
+      height:"350",
       skills: [
         "⚡ Proficient in Adobe Photoshop and Adobe Illustrator for image processing.",
         "⚡ Skilled in video editing with Wondershare Filmora and Adobe Premiere Pro.",

@@ -31,8 +31,8 @@ class SkillSection extends Component {
                 <div className="skills-image-div">
                 
                   <img
-                   width="500"
-                   height="500"
+                   width={skill.width}
+                   height={skill.height}
                     alt="Saad is Analysing Data"
                     src={require(`../../assests/images/${skill.image}`)}
                   ></img>
