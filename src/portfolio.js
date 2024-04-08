@@ -46,6 +46,31 @@ export const achievementSection = {
       image: "Marine_Bio.jpg",
     },
     {
+      title: "PubChem Training Course",
+      subtitle: "Completed the PubChem Training Course offered by the NIH - National Library of Medicine in December 2023.",
+      image: "Certificate_NIH.jpg",
+    },
+    {
+      title: "Continuing Education Course",
+      subtitle: "Completed the Continuing Education course on PubChem, approved by the Medical Library Association (MLA) for 2.0 MLA CE Credits.",
+      image: "MLA.jpg",
+    },
+    {
+      title: "OIST NetCafe Online Information Session",
+      subtitle: "Attended the OIST NetCafe Online Information Session hosted by the Okinawa Institute of Science and Technology (OIST) in October 2023.",
+      image: "OIST_Oct.jpg",
+    },
+    {
+      title: "Thinking and Working Politically",
+      subtitle: "Completed the 'An Introduction to Thinking and Working Politically' course offered by UNICEF in October 2023.",
+      image: "Unicef.jpg",
+    },
+    {
+      title: "OIST NetCafe Online Information Session",
+      subtitle: "Attended the OIST NetCafe Online Information Session hosted by the Okinawa Institute of Science and Technology (OIST) in July 2023.",
+      image: "OIST_July.jpg",
+    },
+    {
       title: "Understanding Research Methods",
       subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
       image: "Understand.jpg",
