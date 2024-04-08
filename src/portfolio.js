@@ -91,25 +91,25 @@ export const awardstSection = {
   title: "Achievements",
   subtitle: "",
   achivementsCards: [
+    // {
+    //   title: "Basic ",
+    //   subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
+    //   image: "Basic_Microbiology.jpg",
+    // },
     {
-      title: "Basic ",
-      subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
-      image: "Basic_Microbiology.jpg",
+      title: "2nd National Biology and Bioinformatics Olympiad",
+      subtitle: "Achieved finalist status in the 2nd National Biology and Bioinformatics Olympiad, emerging as one of the top participants among 2000 contestants in 2024.",
+      image: "BioPc_Olympiad_(National).jpg",
     },
     {
-      title: "Understanding Marine Biology",
-      subtitle: "Completed an online course through Alison.com with a commendable score of 96%.",
-      image: "Marine_Bio.jpg",
+      title: "Learn Bioinformatics with BioPC",
+      subtitle: "Successfully completed the training course titled 'Learn Bioinformatics with BioPC' and attained a position in the top 10% of participants in 2022.",
+      image: "top10.jpg",
     },
     {
-      title: "Understanding Research Methods",
-      subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
-      image: "Understand.jpg",
-    },
-    {
-       title: "Industrial Biotechnology",
-       subtitle: "An online course authorized by the University of Manchester and offered through Coursera.",
-       image: "Industrial_Biotechnology.jpg",
+       title: "38th National Science and Technology Fair",
+       subtitle: "Secured 1st position in the Science project and 2nd position in the Olympiad at the 38th National Science and Technology Fair 2017 (District Level).",
+       image: "2nd_position_olympiad.jpg",
      },
     // {
     //   title: "Achievement 1",
