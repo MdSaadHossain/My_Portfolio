@@ -87,7 +87,62 @@ export const achievementSection = {
     // },
   ],
 };
-
+export const awardstSection = {
+  title: "Achievements",
+  subtitle: "",
+  achivementsCards: [
+    {
+      title: "Basic ",
+      subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
+      image: "Basic_Microbiology.jpg",
+    },
+    {
+      title: "Understanding Marine Biology",
+      subtitle: "Completed an online course through Alison.com with a commendable score of 96%.",
+      image: "Marine_Bio.jpg",
+    },
+    {
+      title: "Understanding Research Methods",
+      subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
+      image: "Understand.jpg",
+    },
+    {
+       title: "Industrial Biotechnology",
+       subtitle: "An online course authorized by the University of Manchester and offered through Coursera.",
+       image: "Industrial_Biotechnology.jpg",
+     },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "Industrial_Biotechnology.jpg",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "Industrial_Biotechnology.jpg",
+    // },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "URL_to_image_1",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "URL_to_image_2",
+    // },
+    // {
+    //   title: "Achievement 1",
+    //   subtitle: "Description of Achievement 1",
+    //   image: "URL_to_image_1",
+    // },
+    // {
+    //   title: "Achievement 2",
+    //   subtitle: "Description of Achievement 2",
+    //   image: "URL_to_image_2",
+    // },
+  ],
+};
 const socialMediaLinks = [
   /* Your Social Media Link */
   // github: "https://github.com/ashutosh1919",
@@ -147,6 +202,7 @@ const skills = {
     {
       title: "Research & Publication",
       fileName: "DataScienceImg",
+      image:"graphics_design(uiux).png",
       skills: [
         "⚡ Contributing to ongoing publications, including a review related to palmitic acid pharmacology.",
         "⚡ Engaged in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
@@ -192,6 +248,8 @@ const skills = {
     {
       title: "Bioinformatics & Biological Science Contribution",
       fileName: "FullStackImg",
+      image:"Bioinformaticsbiology(fullstack).png",
+
       skills: [
         "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
         "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
@@ -274,6 +332,8 @@ const skills = {
     {
       title: "Scientific Affiliations & Professional Development",
       fileName: "CloudInfraImg",
+      image:"networks(cloud).png",
+
       skills: [
         "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), Alzheimer's Association (ISTAART), and others.",
         "⚡ Completed several training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
@@ -342,6 +402,8 @@ const skills = {
     {
       title: "Graphics Design & Video Editing",
       fileName: "DesignImg",
+      image:"graphics_design(uiux).png",
+
       skills: [
         "⚡ Proficient in Adobe Photoshop and Adobe Illustrator for image processing.",
         "⚡ Skilled in video editing with Wondershare Filmora and Adobe Premiere Pro.",

@@ -26,8 +26,8 @@
 
 .skills-image-div > * {
   max-width: 100%;
-  height: auto;
-  margin-top: 100px;
+  /* height: auto; */
+  /* margin-top: 100px; */
 }
 
 .skills-heading {
@@ -77,9 +77,9 @@
   }
   .skills-image-div {
     /* display: none; */
-    order: 2;
+    /* order: 2; */
   }
   .skills-image-div > * {
-    margin-top: 0px;
+    /* margin-top: 0px; */
   }
 }
