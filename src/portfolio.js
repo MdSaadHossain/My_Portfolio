@@ -202,7 +202,7 @@ const skills = {
     {
       title: "Research & Publication",
       fileName: "DataScienceImg",
-      image:"research_image.png",
+      image:"research_images.png",
       width:"500",
       height:"500",
       skills: [
