@@ -21,7 +21,7 @@ const seo = {
 const greeting = {
   title: "Md. Saad Hossain",
   logo_name: "Md. Saad Hossain",
-  nickname: "",
+  nickname: "Anas",
   subTitle:
     "In every endeavor, I abide by the profound words of Nelson Mandela: 'I never lose. I either win or learn.' This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to continually explore new ideas and contribute meaningfully to research endeavors. No matter how many times I fail, I will never quit.",
   resumeLink:

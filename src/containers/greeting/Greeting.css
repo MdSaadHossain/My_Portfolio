@@ -6,9 +6,9 @@
 }
 .greet-main {
   width: 90%;
-  padding: 20px 10px;
+  padding: 0px 10px;
   margin: 0px auto;
-  margin-top: 2rem;
+  margin-top: 0rem;
 }
 
 .gretting-main {
@@ -31,9 +31,9 @@
 }
 
 .greeting-text {
-  margin-top: 80px;
+  margin-top: 70px;
   font-size: 70px;
-  line-height: 1.1;
+  line-height: 0.5;
   font-family: "Google Sans Bold";
 }
 
@@ -44,10 +44,12 @@
 }
 
 .greeting-text-p {
-  font-size: 40px;
+  font-size: 26px;
   line-height: 40px;
   margin-right: 40px;
   font-family: "Google Sans Medium";
+  text-align: justify;
+  line-height: 1.5;
 }
 
 .greeting-image-div > * {
