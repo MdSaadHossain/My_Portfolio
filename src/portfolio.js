@@ -9,7 +9,7 @@ const settings = {
 const seo = {
   title: "Saad's Portfolio",
   description:
-    "In every endeavor, I abide by the profound words of Nelson Mandela: 'I never lose. I either win or learn.' This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to continually explore new ideas and contribute meaningfully to research endeavors. No matter how many times I fail, I will never quit.",
+    "In every endeavor, I never lose. I either win or learn. This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to explore new ideas and contribute meaningfully to research endeavors continually. No matter how many times I fail, I will never quit.",
   og: {
     title: "Md. Saad Hossain Portfolio",
     type: "website",
@@ -23,7 +23,7 @@ const greeting = {
   logo_name: "Md. Saad Hossain",
   nickname: "Anas",
   subTitle:
-    "In every endeavor, I abide by the profound words of Nelson Mandela: 'I never lose. I either win or learn.' This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to continually explore new ideas and contribute meaningfully to research endeavors. No matter how many times I fail, I will never quit.",
+    "In every endeavor, I never lose. I either win or learn. This mindset fuels my journey of continuous growth and resilience. I am deeply passionate about the pursuit of knowledge and innovation. My primary goal is to explore new ideas and contribute meaningfully to research endeavors continually. No matter how many times I fail, I will never quit.",
   resumeLink:
     "",
   portfolio_repository: "https://linkedin.com/in/mdsaadhossain/",
@@ -61,6 +61,16 @@ export const achievementSection = {
       image: "OIST_Oct.jpg",
     },
     {
+      title: "Ethical Issues in the Dissemination of Genomic Science",
+      subtitle: "Completed the following module on 'Ethical Issues in the Dissemination of Genomic Science: Perspectives from Genetics in Medicine', offered by Elsevier Researcher Academy.",
+      image: "ethical_issues.jpg",
+    },
+    {
+      title: "Generative AI: New policies, opportunities, and risks",
+      subtitle: "Completed the following module on 'Generative AI: New policies, opportunities, and risks', offered by Elsevier Researcher Academy.",
+      image: "generative_AI.jpg",
+    },
+    {
       title: "Thinking and Working Politically",
       subtitle: "Completed the 'An Introduction to Thinking and Working Politically' course offered by UNICEF in October 2023.",
       image: "Unicef.jpg",
@@ -71,15 +81,36 @@ export const achievementSection = {
       image: "OIST_July.jpg",
     },
     {
+      title: "Industrial Biotechnology",
+      subtitle: "An online course authorized by the University of Manchester and offered through Coursera.",
+      image: "Industrial_Biotechnology.jpg",
+    },
+    {
+      title: "Introduction to Artificial Intelligence",
+      subtitle: "An online course authorized by Simplilearn.",
+      image: "Introduction_AI.jpg",
+    },
+    {
+      title: "B-Safe",
+      subtitle: "An online course authorized by United Nation and offered through United Nation Volunteer Platform.",
+      image: "Bsafe.jpg",
+    },
+    {
+      title: "Speak English Professionally",
+      subtitle: "An online course authorized by the Georgia Institute of Technology and offered through Coursera.",
+      image: "Speak_English.jpg",
+    },
+    {
+      title: "Covid-19 Contact Tracing",
+      subtitle: "An online course authorized by the Johns Hopkins University and offered through Coursera.",
+      image: "Covid.jpg",
+    },
+    {
       title: "Understanding Research Methods",
       subtitle: "An online course authorized by the University of London and SOAS University of London and offered through Coursera.",
       image: "Understand.jpg",
     },
-    {
-       title: "Industrial Biotechnology",
-       subtitle: "An online course authorized by the University of Manchester and offered through Coursera.",
-       image: "Industrial_Biotechnology.jpg",
-     },
+
     // {
     //   title: "Achievement 1",
     //   subtitle: "Description of Achievement 1",
