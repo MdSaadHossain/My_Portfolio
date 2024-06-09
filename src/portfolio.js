@@ -262,6 +262,7 @@ const skills = {
       width:"500",
       height:"500",
       skills: [
+        "⚡ Working on a review paper based on Alzheimer's disease, delving into its complex pathology and potential therapeutic strategies.",
         "⚡ Contributing to ongoing publications, including a review related to palmitic acid pharmacology.",
         "⚡ Engaged in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
         "⚡ Exploring in silico strategies targeting CK2α for prostate cancer therapy and genomic studies on breast cancer risk variants.",
@@ -310,6 +311,7 @@ const skills = {
       width:"500",
       height:"500",
       skills: [
+        "⚡ Engaged in Computer-Aided multi-target drug design for Alzheimer's disease, addressing the complexity of its pathology.",
         "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
         "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
         "⚡ Conducting in silico studies of cancer research and therapy.",
@@ -395,7 +397,8 @@ const skills = {
       width:"500",
       height:"500",
       skills: [
-        "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), Alzheimer's Association (ISTAART), and others.",
+        "⚡ Actively engaged with several prestigious professional societies and networks, including the International Society for Computational Biology (ISCB), American Society for Microbiology (ASM), British Pharmacological Society (BPS), and others.",
+        "⚡ Community Associate in the American Chemical Society (ACS).",
         "⚡ Completed several training courses in Coursera, Elsevier Researcher Academy, Alison, Simplilearn, and PubChem.",
         "⚡ Active participation in online information sessions and courses related to research and science.",
     
@@ -469,6 +472,7 @@ const skills = {
         "⚡ Proficient in Adobe Photoshop and Adobe Illustrator for image processing.",
         "⚡ Skilled in video editing with Wondershare Filmora and Adobe Premiere Pro.",
         "⚡ Experienced in creating visually appealing logos and custom designs.",
+        "⚡ More than 7 years of experience in video editing and graphic design.",
       ],
       softwareSkills: [
         // {
@@ -706,7 +710,7 @@ const certifications = {
 // Experience Page
 const experience = {
   title: "Experience",
-  subtitle: "Scientific Affiliations, Work Experience, Internship, and Volunteership.",
+  subtitle: "Scientific Affiliations, Work & Relevant Experience, Internship & Trainings, and Volunteership.",
   description:
     "I am fueled by an insatiable passion for exploration across the realms of biology, biochemistry, bioinformatics, and biotechnology.  My career so far has involved roles like Junior Research Collaborator and Research Assistant. My goal is to make meaningful contributions to science and research. These qualities propel my active engagement in diverse communities, where I serve as both a devoted member and researcher.",
   header_image_path: "experience.svg",
@@ -877,7 +881,7 @@ const experience = {
           duration: "November 2022 - December 2022",
           location: "Chattogram, Bangladesh",
           description:
-            "Training about Basic bioinformatics, Drug design, Vaccine design, Predict 3D Model, Predict T-cell epitopes, Protein sequence analysis, Molecular docking and Project exhibition.",
+            "Training about Basic bioinformatics, Drug design, Vaccine design, Predict 3D Model, Predict T-cell epitopes, Protein sequence analysis, Molecular docking and Project exhibition.This comprehensive training equipped me with diverse skills and knowledge essential for conducting cutting-edge research in the fields of biology, biotechnology, and computational biology.",
           color: "#ee3c26",
         },
         // {
