@@ -565,11 +565,26 @@ const competitiveSites = {
 const degrees = {
   degrees: [
     {
+      title: "University of Bologna, Italy",
+      subtitle: "Erasmus Mundus Joint MSc in Chemical Innovation and Regulation",
+      logo_path: "LOGO_BOLOGNA-3.png",
+      alt_name: "UniBo, Italy",
+      duration: "Sep 2024 - Present",
+      descriptions: [
+        "⚡ The Erasmus Mundus MSc in Chemical Innovation and Regulation (ChIR) is a comprehensive program designed to prepare professionals to handle all aspects of chemical safety.",
+        "⚡ This two-year program includes one year of taught modules and one year of internship, research project, and thesis. Students gain scientific, regulatory, and economic knowledge necessary to manage chemical risks and comply with international chemical legislation.",
+        "⚡ The curriculum covers international regulations on chemical substances, the design of safe chemical products, business planning for chemical commercialization, industrial process implementation, and the principles of circular economy and sustainability.",
+        "⚡ The program involves studying at one of the consortium universities in the first year and completing the second year in another country within the consortium for an internship and research project.",
+        "⚡ Upon completion, students receive a joint Master Degree in Chemical Innovation and Regulation, awarded by the University of Algarve, the University of Barcelona, and the University of Bologna."
+  ],
+      website_link: "https://www.unibo.it/en",
+    },
+    {
       title: "East West University, Bangladesh",
       subtitle: "BSc in Genetic Engineering and Biotechnology",
       logo_path: "iiiitk_logo.png",
-      alt_name: "EWU,Bangladesh",
-      duration: "2019 - 2024",
+      alt_name: "EWU, Bangladesh",
+      duration: "Jan 2019 - Jun 2024",
       descriptions: [
         "⚡ I have acquired knowledge through multidisciplinary courses encompassing Cell Biology, Molecular Biology, Biochemistry, Immunology, Biophysics, Bioinformatics, Genetics & Genomics. These experiences have deepened my understanding of the intricate complexities within the life sciences domain.",
         "⚡ Apart from this, I have done courses in Mathematics, Statistics, Psychology, Professional Ethics, Industrial Biotechnology, Forensic Biology, Pharmaceutical Biotechnology and many more.",
@@ -720,6 +735,17 @@ const experience = {
       work: true,
       experiences: [
         {
+          title: "Affiliate Member",
+          company: "Royal Society of Chemistry (RSC)",
+          company_url: "https://www.rsc.org/",
+          logo_path: "RSC_Logo.png",
+          duration: "July 2024 - Present",
+          location: "London, United Kingdom",
+          description:
+            "The Royal Society of Chemistry (RSC) is a learned society (professional association) in the United Kingdom with the goal of 'advancing the chemical sciences'. It was formed in 1980 from the amalgamation of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry with a new Royal Charter and the dual role of learned society and professional body. From October 2023 to June 2024, I was a Student Member of the Royal Society of Chemistry (RSC). During this period, I had the privilege of being part of a prestigious community dedicated to advancing the chemical sciences. This membership offered access to a wealth of resources, networking opportunities, and professional development initiatives, empowering me to deepen my knowledge and contribute to the field of chemistry. Following my graduation, I have been promoted to an Affiliate Member. This new status continues to enhance my engagement and opportunities within the RSC, allowing me to remain connected to a network of professionals and resources that support my ongoing development and contributions to the field of chemistry.",
+          color: "#fc1f20",
+        },
+        {
           title: "Student Member",
           company: "International Society for Computational Biology (ISCB)",
           company_url: "https://www.iscb.org/",
@@ -779,10 +805,10 @@ const experience = {
           company: "Royal Society of Chemistry (RSC)",
           company_url: "https://www.rsc.org/",
           logo_path: "RSC_Logo.png",
-          duration: "October 2023 - Present",
+          duration: "October 2023 - June 2024",
           location: "London, United Kingdom",
           description:
-            "The Royal Society of Chemistry (RSC) is a learned society (professional association) in the United Kingdom with the goal of 'advancing the chemical sciences'. It was formed in 1980 from the amalgamation of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry with a new Royal Charter and the dual role of learned society and professional body. As a Student Member of the Royal Society of Chemistry (RSC), I have the privilege of being part of a prestigious community dedicated to advancing the chemical sciences. This membership offers access to a wealth of resources, networking opportunities, and professional development initiatives, empowering me to deepen my knowledge and contribute to the field of chemistry.",
+            "The Royal Society of Chemistry (RSC) is a distinguished learned society and professional association in the United Kingdom dedicated to advancing the chemical sciences. Established in 1980 through the merger of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry, the RSC operates under a Royal Charter, fulfilling the roles of both a learned society and a professional body. From October 2023 to June 2024, I had the honor of being a Student Member of the Royal Society of Chemistry (RSC). During this time, I was part of an esteemed community focused on promoting the chemical sciences. My membership provided me with access to invaluable resources, extensive networking opportunities, and numerous professional development programs, all of which enhanced my knowledge and enabled me to contribute meaningfully to the field of chemistry.",
           color: "#fc1f20",
         },
         {
