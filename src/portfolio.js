@@ -566,7 +566,7 @@ const degrees = {
   degrees: [
     {
       title: "University of Bologna, Italy",
-      subtitle: "Erasmus Mundus Joint MSc in Chemical Innovation and Regulation",
+      subtitle: "Erasmus Mundus Joint Master's Degree \nM.Sc. in Chemical Innovation and Regulation",
       logo_path: "LOGO_BOLOGNA-3.png",
       alt_name: "UniBo, Italy",
       duration: "Sep 2024 - Present",
@@ -581,7 +581,7 @@ const degrees = {
     },
     {
       title: "East West University, Bangladesh",
-      subtitle: "BSc in Genetic Engineering and Biotechnology",
+      subtitle: "B.Sc. in Genetic Engineering and Biotechnology",
       logo_path: "iiiitk_logo.png",
       alt_name: "EWU, Bangladesh",
       duration: "Jan 2019 - Jun 2024",

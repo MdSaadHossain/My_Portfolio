@@ -36,9 +36,10 @@ class DegreeCard extends Component {
                 <h2 className="card-title" style={{ color: theme.text }}>
                   {degree.title}
                 </h2>
-                <h3 className="card-subtitle" style={{ color: theme.text }}>
+                <h3 className="card-subtitle" style={{ color: theme.text,whiteSpace: "pre-wrap" }}>
                   {degree.subtitle}
                 </h3>
+                
               </div>
               <div className="body-header-duration">
                 <h3 className="duration" style={{ color: theme.text }}>
