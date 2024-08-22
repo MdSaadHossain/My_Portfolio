@@ -989,7 +989,7 @@ const projectsHeader = {
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I am working on and trying to publish a few research papers.",
+    "I am working on.",
   avatar_image_path: "projects_image.svg",
 };
 
