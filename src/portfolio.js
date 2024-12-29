@@ -36,6 +36,11 @@ export const achievementSection = {
   subtitle: "",
   achivementsCards: [
     {
+      title: "Safety, Prevention, and Risk Management Training",
+      subtitle: "Issued by the University of Bologna, emphasizing laboratory and work safety, risk prevention, training, and security.",
+      image: "Training.jpg",
+    },
+    {
       title: "Basic Microbiology",
       subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
       image: "Basic_Microbiology.jpg",
@@ -152,6 +157,11 @@ export const awardstSection = {
     //   subtitle: "A course offered on OpenWHO.org, an online learning initiative of the WHO Health Emergencies Programme.",
     //   image: "Basic_Microbiology.jpg",
     // },
+    {
+      title: "Erasmus Mundus Fully Funded Scholarship",
+      subtitle: "Awarded by the European Commission, EU, to pursue the Erasmus Mundus Joint Master's Degree in Chemical Innovation and Regulation.",
+      image: "Award_Letter.jpg",
+    },
     {
       title: "2nd National Biology and Bioinformatics Olympiad",
       subtitle: "Achieved finalist status in the 2nd National Biology and Bioinformatics Olympiad, emerging as one of the top participants among 2000 contestants in 2024.",
@@ -739,7 +749,7 @@ const experience = {
           company: "Royal Society of Chemistry (RSC)",
           company_url: "https://www.rsc.org/",
           logo_path: "RSC_Logo.png",
-          duration: "July 2024 - Present",
+          duration: "July 2024 - December 2024",
           location: "London, United Kingdom",
           description:
             "The Royal Society of Chemistry (RSC) is a learned society (professional association) in the United Kingdom with the goal of 'advancing the chemical sciences'. It was formed in 1980 from the amalgamation of the Chemical Society, the Royal Institute of Chemistry, the Faraday Society, and the Society for Analytical Chemistry with a new Royal Charter and the dual role of learned society and professional body. From October 2023 to June 2024, I was a Student Member of the Royal Society of Chemistry (RSC). During this period, I had the privilege of being part of a prestigious community dedicated to advancing the chemical sciences. This membership offered access to a wealth of resources, networking opportunities, and professional development initiatives, empowering me to deepen my knowledge and contribute to the field of chemistry. Following my graduation, I have been promoted to an Affiliate Member. This new status continues to enhance my engagement and opportunities within the RSC, allowing me to remain connected to a network of professionals and resources that support my ongoing development and contributions to the field of chemistry.",
@@ -838,7 +848,18 @@ const experience = {
           company: "British Pharmacological Society (BPS)",
           company_url: "https://www.bps.ac.uk/",
           logo_path: "BPS_logo.png",
-          duration: "April 2023 - Present",
+          duration: "July 2024 - Present",
+          location: "London, United Kingdom",
+          description:
+            "British Pharmacological Society (BPS) is a charity with a mission to promote and advance the whole spectrum of pharmacology. They lead the way in the research and application of pharmacology around the world. They are a friendly and collaborative global community, with over 4,000 members from more than 60 countries worldwide. As a Student Member of the BPS, I am part of a dynamic community dedicated to advancing the field of pharmacology. Through this membership, I have access to valuable resources, networking opportunities, and educational events that enhance my understanding of pharmacological principles and their applications in research and healthcare.",
+          color: "#fc1f20",
+        },
+        {
+          title: "Student Member",
+          company: "British Pharmacological Society (BPS)",
+          company_url: "https://www.bps.ac.uk/",
+          logo_path: "BPS_logo.png",
+          duration: "April 2023 - June 2024",
           location: "London, United Kingdom",
           description:
             "British Pharmacological Society (BPS) is a charity with a mission to promote and advance the whole spectrum of pharmacology. They lead the way in the research and application of pharmacology around the world. They are a friendly and collaborative global community, with over 4,000 members from more than 60 countries worldwide. As a Student Member of the BPS, I am part of a dynamic community dedicated to advancing the field of pharmacology. Through this membership, I have access to valuable resources, networking opportunities, and educational events that enhance my understanding of pharmacological principles and their applications in research and healthcare.",
