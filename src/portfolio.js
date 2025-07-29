@@ -272,10 +272,10 @@ const skills = {
       width:"500",
       height:"500",
       skills: [
-        "⚡ Working on a review paper based on Alzheimer's disease, delving into its complex pathology and potential therapeutic strategies.",
-        "⚡ Contributing to ongoing publications, including a review related to palmitic acid pharmacology.",
-        "⚡ Engaged in comprehensive research with a focus on plant-based pharmaceuticals and cancer therapeutics.",
-        "⚡ Exploring in silico strategies targeting CK2α for prostate cancer therapy and genomic studies on breast cancer risk variants.",
+        "⚡ Published a comprehensive review paper on multi-target drug design for Alzheimer's disease treatment.",
+        "⚡ Currently preparing a dual-compound review on matairesinol and palmitic acid, focusing on their natural sources, pharmacology, pharmacokinetics, and toxicity profiles.",
+        "⚡ Actively contributing to two additional review projects centered on universal vaccine development and AI-based vaccien design",
+        "⚡ Investigating the chemical basis of Diploscapter nematode behavior—specifically, why it targets and enters the PG gland of Oceraea biroi ants.",
       ],
       softwareSkills: [
         // {
@@ -315,16 +315,16 @@ const skills = {
       ],
     },
     {
-      title: "Bioinformatics & Biological Science Contribution",
+      title: "Scientific Contribution",
       fileName: "FullStackImg",
       image:"Bioinformaticsbiology(fullstack).png",
       width:"500",
       height:"500",
       skills: [
         "⚡ Engaged in Computer-Aided multi-target drug design for Alzheimer's disease, addressing the complexity of its pathology.",
-        "⚡ Investigating the therapeutic potential of bioactive compounds from Ganoderma lucidum mushrooms.",
-        "⚡ Pioneering bioinformatics research in lung cancer and drug discovery.",
-        "⚡ Conducting in silico studies of cancer research and therapy.",
+        "⚡ Completed a manuscript on Molecular Pharming: Advances, Applications, and Future Prospects in Biotechnology and Medicine, exploring the use of transgenic plants for therapeutic protein production.",
+        "⚡ Contributed to a review analyzing natural compounds (matairesinol and palmitic acid)—their pharmacology, pharmacokinetics, toxicity, and potential in modern therapeutic applications.",
+        
       ],
       softwareSkills: [
         // {
@@ -737,7 +737,7 @@ const experience = {
   title: "Experience",
   subtitle: "Scientific Affiliations, Work & Relevant Experience, Internship & Trainings, and Volunteership.",
   description:
-    "I am fueled by an insatiable passion for exploration across the realms of biology, biochemistry, bioinformatics, and biotechnology.  My career so far has involved roles like Junior Research Collaborator and Research Assistant. My goal is to make meaningful contributions to science and research. These qualities propel my active engagement in diverse communities, where I serve as both a devoted member and researcher.",
+    "I am fueled by an insatiable passion for exploration across the realms of biology, biochemistry, bioinformatics, and biotechnology.  My career so far has involved roles like Junior Research Collaborator, Research Assistant and currently a Research Intern at the Max Planck Institute for Chemical Ecolog (MPI-CE). My goal is to make meaningful contributions to science and research. These qualities propel my active engagement in diverse communities, where I serve as both a devoted member and researcher.",
   header_image_path: "experience.svg",
   sections: [
     {
@@ -844,7 +844,7 @@ const experience = {
           color: "#9b1578",
         },
         {
-          title: "Student Member",
+          title: "Early Career Member",
           company: "British Pharmacological Society (BPS)",
           company_url: "https://www.bps.ac.uk/",
           logo_path: "BPS_logo.png",
@@ -871,6 +871,17 @@ const experience = {
       title: "Work & Relevant Experience",
       work: true,
       experiences: [
+        {
+          title: "Researcher Trainee & M.Sc. Intern",
+          company: "Max Planck Institute for Chemical Ecology (MPI-CE)",
+          company_url: "https://www.ice.mpg.de/",
+          logo_path: "mpi.jpeg",
+          duration: "July 15 - Present",
+          location: "Jena, Germany",
+          description:
+            "Investigating the chemical basis of Diploscapter nematode parasitism, focusing on its selective entry into the PG gland of Oceraea biroi ants. Designing and optimizing experimental conditions to study dauer exit behavior under various chemical and nutritional environments.",
+          color: "#0879bf",
+        },
         {
           title: "Junior Research Collaborator",
           company: "Advanced Bioinformatics, Computational Biology and Data Science Laboratory, Bangladesh",
@@ -1003,14 +1014,14 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects span a diverse spectrum of research in the realm of biological science, with a focus on excelling in biotechnology, bioinformatics, and biochemistry. I actively contribute to innovative projects, utilizing bioinformatics and biological tools to propel forward impactful research initiatives.",
+    "My research journey spans a diverse spectrum within the biological sciences, with a strong emphasis on biotechnology, bioinformatics, and molecular pharmacology. I actively engage in multidisciplinary projects—from computational drug design and natural compound pharmacology to nematode behavioral studies—leveraging advanced bioinformatics tools and experimental approaches to drive impactful scientific contributions.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I am working on.",
+    " ",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -1018,11 +1029,11 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "No publication has been added",
-      createdAt: "2024-01-01T16:26:54Z",
-      description: " ",
+      name: "Multi-Target Drug Design in Alzheimer's Disease Treatment: Emerging Technologies, Advantages, Challenges, and Limitations",
+      createdAt: "2025-06-25T16:26:54Z",
+      description: "This review explores the potential of multi-target drug design (MTDD) in the treatment of Alzheimer's disease, highlighting emerging technologies such as AI-driven screening, PROTACs, RNA-based therapeutics, and quantum approaches. The paper evaluates current challenges and proposes future directions for MTDD strategies.",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://bpspubs.onlinelibrary.wiley.com/doi/full/10.1002/prp2.70131",
     },
     // {
     //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
