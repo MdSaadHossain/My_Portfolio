@@ -875,7 +875,7 @@ const experience = {
           title: "Researcher Trainee & M.Sc. Intern",
           company: "Max Planck Institute for Chemical Ecology (MPI-CE)",
           company_url: "https://www.ice.mpg.de/",
-          logo_path: "",
+          logo_path: "mpi.jpeg",
           duration: "July 15 - Present",
           location: "Jena, Germany",
           description:
